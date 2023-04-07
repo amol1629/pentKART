@@ -1,0 +1,20 @@
+body {
+  /* color: white; */
+}
+
+.admin-page-brandName {
+  color: white;
+}
+
+.admin-page-brandName:hover {
+  color: aqua;
+}
+
+.link-item {
+  color: white;
+  text-decoration: none;
+}
+
+.link-item:hover {
+  color: aqua;
+}

@@ -1,0 +1,55 @@
+
+
+.navigation-main-container {
+  background-color: #deb6ea;
+}
+
+.pentkart-heading {
+  color: black;
+  transition: all 0.3s;
+}
+
+.pentkart-heading:hover {
+  color: rgb(243, 7, 125);
+  text-shadow: 0px 0px 1px rgb(243, 7, 125);
+  transition: all 0.3s;
+}
+
+.pentagon-logo {
+  height: 40px;
+  border-radius: 50%;
+}
+
+.navigation-bar-items {
+  color: black;
+  transition: all 0.3s;
+}
+
+.navigation-bar-items:hover {
+  color: white;
+  transition: all 0.3s;
+}
+
+.accounts-link-items:hover {
+  /* border-bottom: 1px solid pink; */
+  transition: all 0.2s;
+}
+
+.accounts-link {
+  color: black;
+  transition: all 0.2s;
+}
+
+.accounts-link:hover {
+  color: rgb(255, 142, 160);
+  transition: all 0.2s;
+}
+
+.accounts-link-list-item {
+  transition: all 0.2s;
+}
+
+.accounts-link-list-item:hover {
+  transition: all 0.2s;
+  border-bottom: 2px solid pink;
+}

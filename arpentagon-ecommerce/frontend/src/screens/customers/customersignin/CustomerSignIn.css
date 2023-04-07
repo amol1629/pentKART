@@ -1,0 +1,24 @@
+body {
+  
+  /* background-image: url("https://image.shutterstock.com/image-vector/beautiful-wallpaper-hd-splash-watercolor-260nw-1731530431.jpg"); */
+  background-attachment: fixed;
+  background-size: cover;
+  /* color: white; */
+}
+
+.link-item {
+  color: green;
+  text-decoration: none;
+}
+
+.link-item:hover {
+  color: rgb(169, 181, 132);
+}
+
+.link-item-create {
+  color: blueviolet;
+}
+
+.link-item-create:hover {
+  border-bottom: 2px solid rgb(8, 99, 197);
+}

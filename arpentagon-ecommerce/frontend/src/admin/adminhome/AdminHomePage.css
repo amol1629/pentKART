@@ -1,0 +1,20 @@
+.admin-homepage-card {
+  color: purple;
+  transition: all 0.3s ease;
+  border: 1px solid lightgoldenrodyellow;
+}
+
+.main-c {
+  background-color: purple;
+}
+
+.admin-homepage-card .admin-homepage-card-image {
+  border-radius: 15%;
+}
+
+.admin-homepage-card:hover {
+  box-shadow: 6px 6px 8px #d3d3d3;
+  max-height: 350px;
+  border: 1px solid pink;
+  color: deeppink;
+}
